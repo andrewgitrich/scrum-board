@@ -1,0 +1,38 @@
+textarea{
+	width: 150px;
+	height: 100px;
+	background-color: yellow;
+}
+
+
+
+
+
+.row{
+	width: 100%;
+	display: flex;
+
+}
+
+
+.col-1{
+	width: 33%;
+	height: 100%;
+	border: 1px solid black;	
+}
+
+.col-2{
+	width: 33%;
+	border: 1px solid black;
+}
+
+.col-3{
+	width: 33%;
+	border: 1px solid black;
+}
+
+h1{
+	text-align: center;
+	border: 1px solid black;
+}
+
